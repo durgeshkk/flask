@@ -1,4 +1,4 @@
-# flask-poc
+# flask-app
 
 A complete Flask beginner friendly Application to create Todo List.  
 
