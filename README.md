@@ -10,3 +10,5 @@ A complete Flask beginner friendly Application to create Todo List.
 1. Flask & flask-sqlalchemy
 2. SQLite
 3. Bootstrap
+
+**Course Content - https://github.com/durgeshkk/Obsidian/blob/main/DEV/Flask.md**
